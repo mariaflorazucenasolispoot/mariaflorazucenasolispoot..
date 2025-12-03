@@ -34,4 +34,7 @@ En el algoritmo de conversión tenemos principalmente a el algoritmo "Shunting Y
     gcc InfijoAPostfijoApp.c -o app 
 
     2.- Para ejecutar el archivo .exe y obtener el archivo de salida .txt 
+
     ./app.exe
+                 :::::::::explicación personal sobre el tema ::::::::
+Al principio me costó entender la conversión de expresiones infijas a postfijas y su evaluación, pero con diagramas, ejercicios prácticos, explicaciones alternativas y práctica con el código, finalmente lo logré, aunque la precedencia de los operadores, los paréntesis y la recursión fueron los aspectos más desafiantes.
