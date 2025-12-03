@@ -17,4 +17,8 @@ Para compilar el programa se ejecuta por medio de la línea de comandos.
     gcc program.c -o ada2
 
     2.- Para ejecutar el archivo .exe y obtener el archivo de salida .txt 
+
     ./ada2.exe 
+
+                         :::::::::::::::::::explicacion del tema personal:::::::::::::::::::
+En lo que respecta a mi desempeño en este tema, inicialmente enfrenté dificultades en la comprensión de la gestión de memoria dinámica y la implementación de estructuras de datos como las colas. Sin embargo, a través de la práctica y la resolución de ejercicios, logré consolidar mi entendimiento. La principal dificultad radicó en la necesidad de recordar la liberación de la memoria asignada dinámicamente, un aspecto crucial para evitar errores de ejecución y fugas de memoria.
