@@ -12,7 +12,9 @@ El repositorio incluye las siguientes carpetas/archivos:
 *   **ada2:**
 *   Incluye trabajos sobre la gestión de memoria.
 *   https://github.com/mariaflorazucenasolispoot/mariaflorazucenasolispoot../tree/f37e587f4722cf40158a7cec01d2e9ccdcc0bec6/ada2
-*   **ada3:** Contiene actualizaciones y modificaciones de la tarea 3.
+*   **ada3:**
+*   Contiene actualizaciones y modificaciones de la tarea 3.
+*   https://github.com/mariaflorazucenasolispoot/mariaflorazucenasolispoot../tree/94a1135cc734ef6b218f11968377e900cef3328e/ada3
 *   **ada4:** Abarca implementaciones y reflexiones personales sobre árboles en C.
 *   **ada5:** Incluye un archivo renombrado "problema05", originalmente relacionado con el ordenamiento de árboles.
 *   **ada6:** Contiene información y reflexiones personales sobre el proyecto.
