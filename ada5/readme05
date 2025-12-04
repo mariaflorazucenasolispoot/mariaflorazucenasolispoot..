@@ -1,0 +1,26 @@
+ADA 05 Algoritmos de ordenamiento - Tree Sort
+Autores: Jenny Euan, Maria Flora Solis, Sandy Xool
+Fecha de entrega: 21 de octubre de 2025
+Descripción: Este documento es un análisis exhaustivo del algoritmo de ordenamiento Tree Sort.
+Introducción y Contexto: Explica el origen del algoritmo, su evolución desde los árboles de búsqueda binaria y su relación con estructuras auto-balanceadas como los árboles AVL.
+Funcionamiento del Algoritmo: Describe los tres pasos principales: leer valores del array, insertar cada valor en un árbol binario de búsqueda (BST) y realizar un recorrido in-order para obtener la lista ordenada.
+Características Técnicas:
+Estabilidad: No es estable, ya que el orden de elementos iguales puede alterarse.
+In-place: No es in-place, requiere espacio adicional O(n) para la estructura del árbol.
+Adaptabilidad: Tiene adaptabilidad limitada, ya que su rendimiento depende más de la estructura del árbol que del orden inicial de los datos.
+Eficiencia del Algoritmo:
+Complejidad Temporal:
+Mejor caso: O(n log n)
+Caso promedio: O(n log n)
+Peor caso: O(n²)
+Complejidad Espacial: O(n)
+Comparación con otros algoritmos de ordenamiento por árboles: Compara Tree Sort con Heap Sort y Tournament Sort, destacando ventajas y desventajas de cada uno.
+Casos de uso y aplicaciones prácticas:
+Más eficiente cuando los datos llegan dinámicamente y se requiere mantener un conjunto ordenado en todo momento.
+Ejemplos reales: sistemas que reciben registros de eventos en tiempo real, bases de datos, renderización de gráficos.
+Conclusión: Útil en escenarios dinámicos donde se necesitan inserciones ordenadas y recuperación en orden, pero no tan útil para ordenar rápidamente datos ya existentes.
+Referencias: Incluye enlaces a varios recursos en línea que explican el algoritmo Tree Sort.
+
+                              :::::::::::::::::::::::::::explicacion del tema personal:::::::::::::::::::::::::::::::::::::::::::
+ Tree Sort es un algoritmo que puede ser muy útil en situaciones específicas donde la inserción dinámica y el mantenimiento del orden son importantes,
+pero debe ser utilizado con precaución y considerando sus limitaciones en términos de estabilidad, espacio y eficiencia en el peor de los casos.
