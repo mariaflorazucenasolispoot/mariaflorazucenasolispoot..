@@ -1,1 +1,82 @@
+# Algoritmos de Ordenamiento - Implementación en C
 
+Este proyecto proporciona una implementación básica de varios algoritmos de ordenamiento en C, diseñados para trabajar con arreglos dinámicos de números flotantes.
+
+## Descripción
+
+El código fuente incluye las siguientes funcionalidades:
+
+-   **Creación de Arreglos Dinámicos:**
+    -   Generación de arreglos con números flotantes aleatorios.
+    -   Creación de arreglos con valores definidos por el usuario.
+-   **Visualización de Arreglos:**
+    -   Función para desplegar los elementos del arreglo.
+-   **Copia de Arreglos:**
+    -   Función para copiar un arreglo existente, útil para probar múltiples algoritmos sin modificar el original.
+-   **Liberación de Memoria:**
+    -   Función para liberar la memoria asignada a los arreglos dinámicos.
+-   **Implementación de Algoritmos de Ordenamiento:**
+    -   Bubble Sort
+    -   Selection Sort
+    -   Insertion Sort
+    -   Quick Sort
+    -   Merge Sort (por implementar)
+    -   Cocktail Sort
+    -   Heap Sort
+    -   Tree Sort
+    -   Tournament Sort
+
+## Estructuras de Datos
+
+-   `Array`: Estructura que contiene un apuntador a un arreglo dinámico de floats (`float *data`) y su tamaño (`int size`).
+
+## Algoritmos de Ordenamiento Implementados
+
+### Bubble Sort
+
+-   Implementación del algoritmo Bubble Sort con optimización para detenerse si el arreglo ya está ordenado.
+-   Incluye contadores para el número de iteraciones (comparaciones) y swaps (intercambios) realizados.
+
+### Selection Sort
+
+-   Implementación del algoritmo Selection Sort.
+-   Cuenta el número de iteraciones realizadas durante el ordenamiento.
+
+### Insertion Sort
+
+-   Implementación del algoritmo Insertion Sort.
+-   Ordena el arreglo insertando cada elemento en la posición correcta dentro de la parte ya ordenada del arreglo.
+
+### Quick Sort
+
+-   Implementación del algoritmo Quick Sort utilizando una función de partición y recursión.
+
+### Merge Sort
+
+-   Función base para la implementación del algoritmo Merge Sort (actualmente sin implementar).
+
+### Cocktail Sort
+
+-   Implementación del algoritmo Cocktail Sort, una variante del Bubble Sort que ordena en ambas direcciones.
+-   Registra el número total de iteraciones y swaps realizados.
+
+### Heap Sort
+
+-   Implementación del algoritmo Heap Sort utilizando funciones auxiliares para construir y mantener un heap.
+
+### Tree Sort
+
+-   Implementación del algoritmo Tree Sort utilizando un árbol binario de búsqueda.
+-   Incluye funciones para la creación, inserción y recorrido inorden del árbol, así como la liberación de memoria.
+
+### Tournament Sort
+
+-   Implementación del algoritmo Tournament Sort.
+-   Utiliza un árbol de torneo para encontrar repetidamente el elemento más pequeño y ordenarlos.
+
+## Uso
+
+1.  **Compilación:**
+
+    ```bash
+    gcc -o sorting_algorithms main.c -lm
