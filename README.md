@@ -21,6 +21,8 @@ El repositorio incluye las siguientes carpetas/archivos:
 *   **ada5:**
 *   Incluye un archivo renombrado "problema05", originalmente relacionado con el ordenamiento de árboles.
 *   https://github.com/mariaflorazucenasolispoot/mariaflorazucenasolispoot../tree/4865c239b0a3b72d1feda5d5ffa6c56eceb8c60d/ada5
-*   **ada6:** Contiene información y reflexiones personales sobre el proyecto.
+*   **ada6:**
+*   Contiene información y reflexiones personales sobre el proyecto.
+*   https://github.com/mariaflorazucenasolispoot/mariaflorazucenasolispoot../tree/0f2c071fc201e2dedf32b4c3056f08754bb37204/ada6
 *   **ada7:** Incluye reflexiones personales sobre el aprendizaje en esta tarea.
 *   **README.md:** Este archivo, que proporciona una descripción general del proyecto.
