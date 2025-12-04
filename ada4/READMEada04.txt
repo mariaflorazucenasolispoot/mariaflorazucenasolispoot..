@@ -14,5 +14,6 @@ Opción 2: para generar un nuevo archivo.exe
     nuestro caso: ./program.exe
  
   
-
+                        ::::::::::::::::::::::explicacion personal::::::::::::::::
+Los árboles en C son estructuras de datos donde cada elemento (nodo) puede tener "hijos". Aprendí a crearlos usando punteros, que al principio me confundieron un poco, pero luego entendí que son como "flechas" que conectan los nodos. También aprendí a insertar nuevos elementos y a recorrer el árbol de diferentes maneras (como en orden, preorden y postorden) usando funciones que se llaman a sí mismas (recursión). Lo más importante es no olvidar liberar la memoria que usé para crear los nodos, ¡para no tener problemas después!
 
