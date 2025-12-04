@@ -20,3 +20,6 @@ Notas:
 - `TABLE_SIZE` está definido en `symbol_table.h` y puede ajustarse.
 - Hash utilizado: metodo `djb2`.
 - Para colisiones se usa encadenamiento; las operaciones son O(1) en promedio.
+
+          ::::::::::::::::::::::explicacion personal::::::::::::::::::::::::::::::::::::::
+  En general, fue una experiencia muy valiosa. Aprendí mucho sobre tablas hash, manejo de memoria y diseño de software. ¡Estoy deseando seguir aprendiendo y mejorando mis habilidades!
