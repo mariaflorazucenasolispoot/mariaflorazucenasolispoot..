@@ -74,9 +74,17 @@ El código fuente incluye las siguientes funcionalidades:
 -   Implementación del algoritmo Tournament Sort.
 -   Utiliza un árbol de torneo para encontrar repetidamente el elemento más pequeño y ordenarlos.
 
-## Uso
+
 
 1.  **Compilación:**
 
     ```bash
     gcc -o sorting_algorithms main.c -lm
+            :::::::::::::::::::::::::::::::::explicacion personal:::::::::::::::::::
+Este proyecto me ayudó muchísimo a entender cómo funcionan los algoritmos de ordenamiento y cómo implementarlos en C. Aprendí a manejar arreglos dinámicos, a utilizar punteros y a gestionar la memoria de forma eficiente.
+Aunque todavía tengo que mejorar en algunos algoritmos, estoy contenta con lo que he logrado hasta ahora.
+
+
+
+
+
